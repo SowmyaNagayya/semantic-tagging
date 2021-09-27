@@ -6,7 +6,7 @@ The objective of assignment is to go through the given homework code and refacto
 
 ## Screenshot of homepage
 
-![Here is a screen shot of the final page/homepage.](./assets/images/horiseonmainpage.png)
+![Here is a screen shot of the final page/homepage.](./assets/images/horiseonmainpages.png)
 ![Here is a screen shot of the final page/homepage.](./assets/images/searchengineoptimization.png)
 ![Here is a screen shot of the final page/homepage.](./assets/images/onlinereputationmanagement.png)
 ![Here is a screen shot of the final page/homepage.](./assets/images/socialmediamarketing.png)
@@ -20,4 +20,4 @@ The objective of assignment is to go through the given homework code and refacto
 
 ## Link to deployed page
 
-Here is a link to my deployed code: ]("https://github.com/SowmyaNagayya/semantic-tagging")
+Here is a link to my deployed code: ]("https://sowmyanagayya.github.io/semantic-tagging/")
